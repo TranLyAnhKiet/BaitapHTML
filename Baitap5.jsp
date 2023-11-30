@@ -45,10 +45,9 @@
 			  <label for="Yes">Yes</label><br>   <input type="radio"
 				id="No" name="fav_language" value="No">   <label for="No">No</label><br>
 		</form>
-		<label>Project Description: </label> <input class="form-control"
-			type="text" placeholder="" name="Project Description"> <br>
+		<label>Project Description: </label>  <br> <textarea id="content" name="content" rows="2" cols="150"></textarea> <br>
 		<input type="Submit" value="Submit"> <br>
 
-	</div>
+	</div> 
 </body>
 </html>
